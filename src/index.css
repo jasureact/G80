@@ -1,0 +1,28 @@
+body{
+    background-color: white;
+}
+.main{
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+}
+.kart{
+    width: 30%;
+    height: 30%;
+    padding: 15px;
+    background-color: darkcyan;
+    border-radius: 50px;
+    text-align: center;
+}
+.kart h2{
+    color: white;
+    font-size: 30px;
+}
+.kart p{
+    color: chartreuse;
+    font-size: 20px;
+}
+.link{
+    color: rgb(255, 196, 0);
+}
